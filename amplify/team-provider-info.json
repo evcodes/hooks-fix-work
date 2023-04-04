@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hookswork-dev-123423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::881985633162:role/amplify-hookswork-dev-123423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::881985633162:role/amplify-hookswork-dev-123423-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hookswork-dev-123423-deployment",
+      "UnauthRoleName": "amplify-hookswork-dev-123423-unauthRole",
+      "StackName": "amplify-hookswork-dev-123423",
+      "StackId": "arn:aws:cloudformation:us-east-1:881985633162:stack/amplify-hookswork-dev-123423/8fa408f0-d306-11ed-993d-129fd1501ad7",
+      "AmplifyAppId": "d3uvn6s8788a4g"
+    },
+    "categories": {
+      "api": {
+        "hookswork": {}
+      }
+    }
+  }
+}
